@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-18T16:20:12 CST" name="Default suite" finished-at="2023-01-18T16:20:32 CST" duration-ms="19929">
+    <groups>
+    </groups>
+    <test started-at="2023-01-18T16:20:12 CST" name="Default test" finished-at="2023-01-18T16:20:32 CST" duration-ms="19929">
+      <class name="Training.FirstSeleniumJavaTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Training.FirstSeleniumJavaTest@4f80542f]" started-at="2023-01-18T16:20:12 CST" name="beforeTest" finished-at="2023-01-18T16:20:21 CST" duration-ms="9068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testEasy()[pri:0, instance:Training.FirstSeleniumJavaTest@4f80542f]" started-at="2023-01-18T16:20:21 CST" name="testEasy" finished-at="2023-01-18T16:20:31 CST" duration-ms="10337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Training.FirstSeleniumJavaTest@4f80542f]" started-at="2023-01-18T16:20:31 CST" name="afterTest" finished-at="2023-01-18T16:20:32 CST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Training.FirstSeleniumJavaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-19T12:15:39 CST" name="Surefire suite" finished-at="2023-01-19T12:16:01 CST" duration-ms="22096">
+    <groups>
+    </groups>
+    <test started-at="2023-01-19T12:15:39 CST" name="Surefire test" finished-at="2023-01-19T12:16:01 CST" duration-ms="22096">
+      <class name="Training.FirstSeleniumJavaTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Training.FirstSeleniumJavaTest@74455848]" started-at="2023-01-19T12:15:39 CST" name="beforeTest" finished-at="2023-01-19T12:15:48 CST" duration-ms="9631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="testEasy()[pri:0, instance:Training.FirstSeleniumJavaTest@74455848]" started-at="2023-01-19T12:15:49 CST" name="testEasy" finished-at="2023-01-19T12:16:00 CST" duration-ms="11737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Training.FirstSeleniumJavaTest@74455848]" started-at="2023-01-19T12:16:00 CST" name="afterTest" finished-at="2023-01-19T12:16:01 CST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Training.FirstSeleniumJavaTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
